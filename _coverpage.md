@@ -1,4 +1,4 @@
-![logo](images/logo.png)
+![logo](images/logo.png ':size=150')
 
 # Laravel 入门教程
 
